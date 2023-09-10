@@ -31,7 +31,7 @@ fig, ax5 = plt.subplots()
 
 ax5.plot(data_u[:,0],data_u[:,1])
 ax5.set_xlabel("t (s)")
-ax5.set_xlabel("u (N)")
+ax5.set_ylabel("u (N)")
 
 
 # extents = np.array([getattr(ax, 'get_{}lim'.format(dim))() for dim in 'xyz'])
