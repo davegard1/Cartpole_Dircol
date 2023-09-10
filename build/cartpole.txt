@@ -1,0 +1,17 @@
+
+PSOPT results summary
+=====================
+
+Problem: 					Cartpole problem
+CPU time (seconds):				2.428558e+00
+NLP solver used: 				IPOPT
+PSOPT release number: 				5.0.2
+Date and time of this run: 			Sat Sep  9 18:38:33 2023
+
+Optimal (unscaled) cost function value: 	1.157265e+02
+Phase 1 endpoint cost function value:		0.000000e+00
+Phase 1 integrated part of the cost: 		1.157265e+02
+Phase 1 initial time:				0.000000e+00
+Phase 1 final time:				8.000000e+00
+Phase 1 maximum relative local error:		1.351332e-02
+NLP solver reports: 				The problem has been solved!

@@ -1,0 +1,3 @@
+/home/davegard/projects/cartpole_psopt/build/CMakeFiles/rebuild_cache.dir
+/home/davegard/projects/cartpole_psopt/build/CMakeFiles/edit_cache.dir
+/home/davegard/projects/cartpole_psopt/build/CMakeFiles/cartpole.dir

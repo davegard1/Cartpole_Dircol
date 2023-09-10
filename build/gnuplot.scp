@@ -1,0 +1,10 @@
+
+set style data lines
+set multiplot
+set title 'Cartpole problem: controls'
+set xlabel 'time (s)'
+set ylabel 'u'
+set key box
+set key outside
+plot [ ] [-20.815723:11.420926] 'XY.dat' using 1:2 title "u" with linespoints
+unset multiplot
